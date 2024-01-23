@@ -2,6 +2,11 @@
 {
     internal class Program
     {
+        /* Jonathan Reed
+        * 1/22/2024
+        *
+        *
+        */
         static void Main(string[] args)
         {
             int[] arr = { 64, 25, 12, 22, 11, 36, 8, 42, 5, 38 };
